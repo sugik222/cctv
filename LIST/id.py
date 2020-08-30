@@ -24,16 +24,15 @@ def indonesia():
     findpage = re.findall('"?page=",\s\d+', res.text)[1]
     rfindpage = findpage.replace('page=", ', '')
     os.system('clear')
-    print("{}        ____ ").format(r)
-    print("   _[]_/____\__n_ ")
-    print("  |_____.--.__()_|")
-    print("  |I   //# \\\    |")
-    print("{}  |P   \\\__//    | ").format(w)
-    print("  |CS   '--'     | ")
-    print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
-    print("{}  '------------------------------------{}-------'  ").format(r,w)
+    print(" _   _            _       ____ ____ _______     __ ").format(r)
+    print("| | | | __ _  ___| | __  / ___/ ___|_   _\ \   / / ")
+    print("| |_| |/ _` |/ __| |/ / | |  | |     | |  \ \ / /  ")
+    print("|  _  | (_| | (__|   <  | |__| |___  | |   \ V /   ").format(w)
+    print("|_| |_|\__,_|\___|_|\_\  \____\____| |_|    \_/    ")
+    print("{}  '--------------'----------{}------------------.  ").format(b,b)
+    print("{}  | {}Instagram : {}Sugik1_ {}  | {}INDO{}N{}{}ESIA         | ").fo       >
+    print("{}  | {}Youtube : {}Ayas Sugik {} | {}SUGIKKK {}          |").format(       >
+    print("{}  '------------------------------------{}-------'  ").format(b,b)
     print("{}       [ {}List page : {} {}]").format(r,w,rfindpage,r)
     run()
     
