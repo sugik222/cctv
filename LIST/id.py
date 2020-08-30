@@ -24,7 +24,6 @@ def indonesia():
     findpage = re.findall('"?page=",\s\d+', res.text)[1]
     rfindpage = findpage.replace('page=", ', '')
     os.system('clear')
-    
     print(" _   _            _       ____ ____ _______     __ ").format(r)
     print("| | | | __ _  ___| | __  / ___/ ___|_   _\ \   / / ")
     print("| |_| |/ _` |/ __| |/ / | |  | |     | |  \ \ / /  ")
