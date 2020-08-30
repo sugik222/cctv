@@ -31,8 +31,8 @@ def indonesia():
     print("{}  |P   \\\__//    | ").format(w)
     print("  |CS   '--'     | ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  | {}Author  : {}sugik {}     | {}INDO{}N{}{}ESIA         | ").format(r,>
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w>
+    print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print("{}       [ {}List page : {} {}]").format(r,w,rfindpage,r)
     run()
